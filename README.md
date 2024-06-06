@@ -22,12 +22,12 @@ The **Random Disco Light Simulator** is a fun and interactive project that bring
 
 ### Inputs
 
-1. How many random colors you want to be shown?
+1. How many random colors do you want to be shown?
 2. Select your desired start & end colors for the gradient
-2. With how much time interval (in milliseconds) you want to change the colors randomly?
-3. What type of view you want to choose (conic, linear or radial)?
-4. Countdown timer (in seconds)
-5. Sound Effect
+2. With what time interval (in milliseconds) do you want to change the colors randomly?
+3. What type of view do you want to choose (conic, linear, or radial)?
+4. Set the countdown timer (in seconds).
+5. Set the Sound Effect.
 
 ## Output
 
